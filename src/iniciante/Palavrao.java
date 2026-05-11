@@ -13,5 +13,7 @@ public class Palavrao {
         }else {
             System.out.println("palavrao");
         }
+
+        scanner.close();
     }
 }
